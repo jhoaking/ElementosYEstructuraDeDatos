@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pilas
+comment1.params=
+comment1.target=Pilas()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=dato
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+numComments=5
